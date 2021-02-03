@@ -1,4 +1,4 @@
-# Substrate Node Template
+# Killscam Substrate Node Template
 
 A new FRAME-based Substrate node, ready for hacking :rocket:
 
